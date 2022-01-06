@@ -1,0 +1,13 @@
+html {
+    font-family: "Verdana";
+    font-size: 50px;
+    font-weight: normal;
+    color: white;
+    text-align: center;
+    background-color: black;
+}
+
+div p{
+    font-size: 21px;
+    color: gray;
+}
