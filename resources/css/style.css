@@ -1,13 +1,33 @@
-html {
-    font-family: "Verdana";
-    font-size: 50px;
+html
+body {
+    font-family: "Verdana", serif;
+    font-size: 16px;
     font-weight: normal;
     color: white;
     text-align: center;
     background-color: black;
 }
 
+nav a{
+    color: aquamarine;
+}
+
 div p{
     font-size: 21px;
+    color: gray;
+}
+
+video {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.icon {
+    padding-top: 20px;
+}
+
+.copyright {
+    padding-top: 40px;
+    text-align: right;
     color: gray;
 }
